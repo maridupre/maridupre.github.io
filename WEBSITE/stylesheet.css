@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+h1,
+h2,
+body,
+head {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1,
+footer {
+	color: darkred;
+}
+
+nav a{
+	margin-top: 50px;
+	margin-bottom: 200px;
+     color: #000000;
+     text-decoration:none;
+	font-size: 20px;
+	font-weight: bold;
+	
+	
+}
+
+nav a:hover {
+    color: darkred; 
+}
+
+main {
+	width: 1000px;
+		margin: 0 auto;
+}
+
+
+
+#services img{
+	margin: 15px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+#services h1{
+	font-size: 40px;
+}
+
+#contact a:hover{
+	text-decoration: none;
+	color: #fabc3d;
+
+}
+
+#contact a{
+	color: darkred;
+	text-decoration: none;
+	padding-bottom: 40px;
+	font-weight: bolder;
+}
+
+#resume iframe{
+		width: 700px;
+		height: 1000px;
+}
+
+
+
+
+
+
