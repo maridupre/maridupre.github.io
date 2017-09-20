@@ -59,11 +59,25 @@ main {
 
 #resume iframe{
 		width: 700px;
-		height: 1000px;
+		height: 900px;
 }
 
+#portfolio{
+	padding-top: 40px;
+}
 
+#map{
+	padding-bottom: 40px;
+}
 
+#resume{
+	padding-bottom: 40px;
+}
 
+#htmllogo{
+	padding-top: 40px;
+}
 
-
+#behance{
+	padding-top: 20px;
+}
