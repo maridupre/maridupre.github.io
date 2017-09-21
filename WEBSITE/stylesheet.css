@@ -80,4 +80,21 @@ main {
 
 #behance{
 	padding-top: 20px;
+	text-decoration: none;
+}
+
+#skills{
+	text-align: center;
+}
+
+#contact{
+	font-size: 30px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+
+ul {
+	padding: 0;
+	list-style-type: none;
+	font-size: 20px;
 }
